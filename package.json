@@ -1,0 +1,17 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "restfull api creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shashank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.10.15",
+    "validator": "^13.1.17"
+  }
+}
